@@ -7,5 +7,6 @@ In this project will cover:
 - Real time Streaming with Kafka anda Snowflake
 - Using Snowpark for Data Pipelijnes and Data Science
 
-  ## Certifiacte for Completion
+## Certifiacte for Completion
   
+![Preview](certificate.jpg)
